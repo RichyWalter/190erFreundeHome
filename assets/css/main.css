@@ -72,13 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
-.iframe-rwd  {
+.google-maps-iframe  {
 	position: relative;
-	padding-bottom: 56.25%;
+	padding-bottom: 45%;
 	height: 0;
 	overflow: hidden;
 	}
-	.iframe-rwd iframe {
+	.google-maps-iframe iframe {
 	position: absolute;
 	top: 0;
 	left: 0;
