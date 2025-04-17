@@ -86,6 +86,9 @@ input, select, textarea {
 	height: 100%;
 	}
 
+span.blockspam {
+	display: none;
+	}
 /* Basic */
 
 	@-ms-viewport {
